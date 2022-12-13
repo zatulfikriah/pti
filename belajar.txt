@@ -1,0 +1,5 @@
+materi pti
+1.pengenalan sistem komputer
+2.komponen komputer
+3.sistem bilangan
+4.conversial
