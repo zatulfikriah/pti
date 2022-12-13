@@ -3,5 +3,6 @@ materi pti
 2.komponen komputer
 3.sistem bilangan
 4.conversial
-5.aplikasi word I
-6.aplikasi word II
+5.aplikasi word I (atur halaman)
+6.aplikasi word II (daftar isi)
+7.aplikasi word III (Mail Merge)
